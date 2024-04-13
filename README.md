@@ -1,6 +1,6 @@
 # Introduction to Python for Data Science
 
-This repository contains the data and code for the short course titled *Introduction to Data Wrangling and Visualization in Python* taught at ASA DataFest 2024 at Southern Methodist University in Dallas, TX.
+This repository contains the data and code for the short course titled *Introduction to Python* taught at ASA DataFest 2024 at Southern Methodist University in Dallas, TX.
 
 ## Installing Python using `miniconda`
 
